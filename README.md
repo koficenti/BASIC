@@ -14,7 +14,7 @@ Small BASIC implementation for web
 ```
 
 ### TODO:
- - [x] Compile and interpret a dialect of BASIC.
+ - [✅] Compile and interpret a dialect of BASIC.
  - [ ] Refine.
  - [ ] Hook up to HTML canvas.
  - [ ] Maybe bulid as a react componenet?
